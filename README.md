@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Ravi 👋
 
-<!--
-**Happy-devloper/Happy-devloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad at Shri Ramswaroop Memorial University, building full-stack apps and learning system design.
 
-Here are some ideas to get you started:
+**Currently working on:**
+- NeetCode 150 (solutions syncing here)
+- System design fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I work with:**
+Python · FastAPI · React · Node.js · TypeScript · Firebase · MongoDB · Docker
+
+**Featured projects:**
+- [Farmlink](https://github.com/Happy-devloper/farmlink) — AI-powered agri marketplace (SIH Top 36/130)
+- [Bloomverse](https://github.com/Happy-devloper/bloomverse) — Digital bouquet creator (deployed)
+
+📫 Reach me: happydevlopment@gmail.com
