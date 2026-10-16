@@ -10,7 +10,7 @@ CS undergrad at Shri Ramswaroop Memorial University, building full-stack apps an
 Python · FastAPI · React · Node.js · TypeScript · Firebase · MongoDB · Docker
 
 **Featured projects:**
-- [Farmlink](https://github.com/Happy-devloper/farmlink) — AI-powered agri marketplace (SIH Top 36/130)
+- [Farmlink](https://github.com/Happy-devloper/farmlink) — AI-powered agri marketplace 
 - [Bloomverse](https://github.com/Happy-devloper/bloomverse) — Digital bouquet creator (deployed)
 
 📫 Reach me: happydevlopment@gmail.com
