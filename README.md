@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-B.Tech CSE student (2025–2029) at Shri Ramswaroop Memorial University, Lucknow. I build and deploy full-stack apps, and I'm looking for an internship where I can ship real features.
+B.Tech CSE student (2025–2029). I build and deploy full-stack apps, and I'm looking for an internship where I can ship real features.
 
 ## What I'm working on
 
