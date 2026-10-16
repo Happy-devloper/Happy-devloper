@@ -27,4 +27,4 @@ SQL (PostgreSQL), system design, and more data structures and algorithms (see my
 ## Get in touch
 
 - LinkedIn: [linkedin.com/in/ravi-srivastava](http://linkedin.com/in/ravi-srivastava-366822371/)
-- Email: [happydevlopment@gmail.comL]
+- Email: happydevlopment@gmail.com
