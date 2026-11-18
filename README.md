@@ -1,30 +1,38 @@
 # Hi, I'm Ravi 👋
 
-B.Tech CSE student (2025–2029). I build and deploy full-stack apps, and I'm looking for an internship where I can ship real features.
+B.Tech CSE student (2025–2029), Lucknow. I build and ship full-stack products — currently looking for a **Software Engineering / Backend internship** where I can own real features.
 
-## What I'm working on
+## 🚀 Featured Projects
 
-- 🌾 **[Farmlink](https://github.com/Happy-devloper/farmlink)**: an AI marketplace connecting farmers and FPOs directly with buyers, with demand forecasting, route optimization, and a voice agent for listing produce by phone. Shortlisted in my university's Smart India Hackathon round (Top 36 of 130 teams).
-- 🎵 **[Flex Music Bot](https://github.com/Happy-devloper/flex-music-bot)**: a Telegram music bot in Node.js and TypeScript, deployed with Docker and serving 10 active groups.
-- 💐 **[Bloomverse](https://github.com/Happy-devloper/bloomverse)**: a React app for creating and sharing digital bouquets and love letters through shareable links.
+- 🌾 **[Farmlink](https://framlink-sih.web.app)** — AI marketplace connecting farmers/FPOs directly with buyers. FastAPI + React + Firebase, XGBoost demand forecasting, route optimization (OR-Tools), and an **LLM voice agent** (STT → GPT-4.1 → TTS). *Smart India Hackathon Round 2 — Top 36 of 130 teams.*
+- 🎵 **[Flex Music Bot](https://t.me/musicc_clan)** — Telegram music bot (Node.js, TypeScript, MongoDB) containerized with Docker on **AWS EC2**. Serving 10+ active groups; solved YouTube anti-bot streaming via a Proof-of-Origin Token provider.
+- 🎥 **[Screen Recorder](https://github.com/Happy-devloper/Screen-recorder)** — Desktop app (Electron) with OS-level capture, live preview, and secure IPC via preload scripts.
+- 💐 **[Bloomverse](https://blooomverse.vercel.app)** — React + Vite app for digital bouquets with privacy-preserving share links.
 
-## Tech stack
+## 📝 Research
+
+- Co-authored *"Isolating Turn Segmentation from Long-Context Degradation in Agentic LLMs"* — submitted to an academic journal.
+
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## Currently learning
+## 📈 Currently Leveling Up
 
-SQL (PostgreSQL), system design, and more data structures and algorithms (see my [NeetCode submissions](https://github.com/Happy-devloper/neetcode-submissions)).
+- **DSA**: 50+ NeetCode 150 problems — [public submissions](https://github.com/Happy-devloper/neetcode-submissions) · 6-week daily streak · 264 contributions in 2026
+- **System Design**: scalable architecture, databases, caching
+- **Backend**: robust APIs, SQL schema design
 
-## Get in touch
+## 🤝 Get in touch
 
-- LinkedIn: [linkedin.com/in/ravi-srivastava](http://linkedin.com/in/ravi-srivastava-366822371/)
+- LinkedIn: [linkedin.com/in/ravi-kumar-366822371](https://www.linkedin.com/in/ravi-kumar-366822371/)
 - Email: happydevlopment@gmail.com
