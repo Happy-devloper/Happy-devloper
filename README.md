@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-B.Tech CSE (2025-2029). Full stack developer. Looking for a Software Engineer/Backend role.
+B.Tech CSE student (2025-2029) from Lucknow. Experienced in developing full-stack products. Seeking a Software Engineering / backend internship where I can take ownership of features.
 
 ## 🚀 Featured Projects
 
