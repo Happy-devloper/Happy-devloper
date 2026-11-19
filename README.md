@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-B.Tech CSE student (2025-2029) from Lucknow. Experienced in developing full-stack products. Seeking a Software Engineering / backend internship where I can take ownership of features.
+B.Tech CSE student (2025–2029) based in Lucknow. I build, deploy, and scale full-stack applications. I'm currently looking for a **Software Engineering / Backend internship** where I can ship real features and solve real problems.
 
 ## 🚀 Featured Projects
 
