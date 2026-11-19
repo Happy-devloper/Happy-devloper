@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋
 
-B.Tech CSE student (2025–2029), Lucknow. I build and ship full-stack products — currently looking for a **Software Engineering / Backend internship** where I can own real features.
+B.Tech CSE (2025-2029). Full stack developer. Looking for a Software Engineer/Backend role.
 
 ## 🚀 Featured Projects
 
@@ -11,7 +11,7 @@ B.Tech CSE student (2025–2029), Lucknow. I build and ship full-stack products 
 
 ## 📝 Research
 
-- Co-authored *"Isolating Turn Segmentation from Long-Context Degradation in Agentic LLMs"* — submitted to an academic journal.
+- Co-author of “Isolating Turn Segmentation from Long-Context Degradation in Agentic LLMs”. Submitted to an academic journal.
 
 ## 💻 Tech Stack
 
